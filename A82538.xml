@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of the Lords and Commons assembled in the Parliament of England at Westminster, to several papers of the Commissioners of Scotland. 14. April, 1646. Ordered by the Commons assembled in Parliament, that the answer to the several papers of the Commissioners of Scotland be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82538</idno>
+            <idno type="STC">Wing E1224</idno>
+            <idno type="STC">Thomason E333_14</idno>
+            <idno type="STC">ESTC R200755</idno>
+            <idno type="EEBO-CITATION">99861414</idno>
+            <idno type="PROQUEST">99861414</idno>
+            <idno type="VID">113548</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113548)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E333[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of the Lords and Commons assembled in the Parliament of England at Westminster, to several papers of the Commissioners of Scotland. 14. April, 1646. Ordered by the Commons assembled in Parliament, that the answer to the several papers of the Commissioners of Scotland be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>April 16. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113548:1"/>
+            <pb facs="tcp:113548:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF THE LORDS and COMMONS Aſſembled in the Parliament of England AT <hi>WESTMINSTER,</hi> To ſeveral PAPERS OF THE Commiſsioners of SCOTLAND.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>14. APRIL, 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, that <hi>The Anſwer to the ſeveral Papers of the Commiſ<g ref="char:EOLhyphen"/>ſioners of Scotland</hi> be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons. April 16. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:113548:2"/>
+            <pb n="3" facs="tcp:113548:2"/>
+            <head>The Lords and Commons aſſembled in the Parliament of <hi>England</hi> at <hi>VVeſtmin<g ref="char:EOLhyphen"/>ſter,</hi> having received the ſeveral Papers from the Commiſſioners of the Parliament of <hi>Scotland</hi> two of the 29<hi>
+                  <hi rend="sup">th</hi>
+               </hi> and 30<hi>
+                  <hi rend="sup">th</hi>
+               </hi> of <hi>September,</hi> with a third of the 9<hi>
+                  <hi rend="sup">th</hi>
+               </hi> of <hi>October;</hi> To the particulars therein con<g ref="char:EOLhyphen"/>tained, they returned this Anſwer:</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning the payment of the Scots Army, ſo much inſiſted upon in your Lordſhips Papers, The ſeve<g ref="char:EOLhyphen"/>ral Declarations, and the divers courſes and wayes which in the ſaid Papers are expreſſed, and acknowledged by your Lordſhips to have been made, and taken by us for the payment of that Army, ſufficiently witneſſe our conſtant care, and manifold endea<g ref="char:EOLhyphen"/>vours for the ſupply thereof; And if all theſe wayes have notwithſtanding proved ſo little ef<g ref="char:EOLhyphen"/>fectual,
+<pb n="4" facs="tcp:113548:3"/>as your Lordſhips alleage, yet can it not in any ſort be imputed to the Houſes of Parlia<g ref="char:EOLhyphen"/>ment, who no ſooner have had any wants of that Army, or any obſtructions in the wayes ta<g ref="char:EOLhyphen"/>ken for the entertainment thereof repreſented unto then, but they have forthwith applyed themſelves to ſupply the one, and remove the other to the utmoſt of what lay in their power; Before the Scots Army was entred into this Kingdom, We appointed a Committee to ſit purpoſely at <hi>Godſmiths</hi>-Hall, to provide Moneys and neceſſaries for the ſupport thereof; This Committee hath ſate ever ſince conſtantly to that end, and to put forwards the execution of our Ordinances therein, whereat twice a week ſome of the Commiſsioners of <hi>Scotland</hi> them<g ref="char:EOLhyphen"/>ſelves were preſent to be witneſſes and promo<g ref="char:EOLhyphen"/>ters of their diligence; The ſame Committee had their Agents in every county, to quicken the execution of our Orders below in the coun<g ref="char:EOLhyphen"/>try; we allowed Sallaries and Rewards to the Diligent, we gave power to puniſh the negli<g ref="char:EOLhyphen"/>gent, and all that ſhould it any ſort divert or obſtruct the coming in the thoſe Aſſeſſments: When the courſe firſt deſigned for the payment
+<pb n="5" facs="tcp:113548:3"/>of the Scots Army out of the Eſtates of Papiſts and other Delinquents, anſwered not expectati<g ref="char:EOLhyphen"/>on, we provided for it, as for other Armies, by way of Tax and Aſſeſſment upon ſeveral coun<g ref="char:EOLhyphen"/>ties; and when thoſe of the Northern parts pro<g ref="char:EOLhyphen"/>ved inſfficient for ſo great a charge, we added others thereunto, and thoſe of the moſt entire and quiet parts of the Kingdom, where firſt was laid an Aſſeſſment of Two hundred thou<g ref="char:EOLhyphen"/>ſand pounds in groſſe, and after a Monethly Aſ<g ref="char:EOLhyphen"/>ſeſſment of Twenty one thouſand pounds <hi>per menſem:</hi> There was never any expedient offered to us for the removal of any obſtruction in the raiſing of thoſe Aſſeſſments, which we did not readily aſſent unto: There was never any thing deſired of us, by our Brethren of <hi>Scotland</hi> which was in our power to grant, which we have not willingly agreed unto, for the more ſpeedy and more effectual execution of our Orders, for the pay and ſupport of that Army: There was no courſe taken for any other Army, but we have taken the like alſo for the Scots Army; ſo that we may truly affirm, That it hath not reſted on us, that that Army hath not been as well paid, and provided for, as any other whatſoever;
+<pb n="6" facs="tcp:113548:4"/>but if the Activeneſſe and great Succeſſes of ſome other Armies have given us more credit in procuring Moneys to be advanced for them, or more quickned the ſpirits of the people to pay in their Aſſeſsments to them; ſurely, that ought not to be turned into matter of Complaint a<g ref="char:EOLhyphen"/>gainſt us, having found the ſame by experience from time to time, in the payment of the Armies of our own Nation; poſsibly alſo, the pay of other Armies may appear more con<g ref="char:EOLhyphen"/>ſtant, &amp; their wants leſſe then it is well known to us, that both the one and the other have been; neither have our endeavours been altogether ſo ineffectual for the Supply of the Scotiſh Army, but that from the ſixth of <hi>October</hi> 1643. to the firſt of <hi>November</hi> 1645. there hath been actu<g ref="char:EOLhyphen"/>ally paid to them in Money and Proviſions, for which Money hath been iſſued out of Gold<g ref="char:EOLhyphen"/>ſmiths-Hall, the Sum of Two hundred twenty thouſand ſix hundred and twenty nine pounds Sterlin, beſides Nine thouſand pounds in Mo<g ref="char:EOLhyphen"/>ney and Lead paid unto them at <hi>York:</hi> And what they have received upon the Aſſeſſments of the Northern parts, appointed to be paid in to the Lord Mayor of <hi>York,</hi> and upon the fifth and
+<pb n="7" facs="tcp:113548:4"/>twentieth part, and from the Coal, and Exciſe of <hi>Newcaſtle,</hi> and of the Northern parts, or otherwiſe by any Aſsignments of both Houſes of Parliament; And likewiſe beſides another Aſ<g ref="char:EOLhyphen"/>ſeſſment of Twenty two thouſand pounds <hi>per menſem,</hi> Aſſeſſed upon the County of <hi>York</hi> in Moneys and Proviſions for four moneths, du<g ref="char:EOLhyphen"/>ring the ſiege of <hi>York,</hi> and after amounting to Eighty eight thouſand pounds, and alſo beſides Ten thouſand pounds more for to cloath the ſol<g ref="char:EOLhyphen"/>diers of that Army, upon the return to <hi>Newcaſtle,</hi> over and above all that themſelves have taxed and levyed in the ſeveral Counties where they have been, and their free-quarter and diſorder<g ref="char:EOLhyphen"/>ly plunderings (which if they have been ſo ex<g ref="char:EOLhyphen"/>ceſsive as the cry thereof from ſeveral parts re<g ref="char:EOLhyphen"/>preſenteth them to our Ears) it is not much to be wondered, if the water run more ſparingly from the Ciſtern and Conduit, when it is ſo much exhauſted at the Spring-head, from whence the Aſſeſsments for the entertainment of that Army and other Forces ſhould have riſen. Concerning the Exciſe of the Northern parts, and the wayes that are alleaged to be taken to divert it from the Scotiſh Army, by
+<pb n="8" facs="tcp:113548:5"/>foreſtalling it here in the South, and applying it to other uſes, no ſuch practiſes have been made known to us; and whenſoever they ſhall be diſcovered, we ſhall be ready to apply fitting remedies thereunto: And for the Coal of <hi>Newcastle</hi> poſsibly the profit thence ariſing might fall very ſhort of the eſtimate made thereof in ſome one moneth, but in other Moneths it hath come in, in greater quantities. And we finde, that for theſe Twelve Moneths laſt paſt, there hath actually come in, and been taken to the uſe of that Army upon the Coals of <hi>Newcaſtle</hi> and <hi>Sunderland</hi> above Fifty three thouſand pounds ſterling, whereof Four thou<g ref="char:EOLhyphen"/>ſand five hundred pounds was of the Cuſtomes belonging to the Navie: And if upon the ta<g ref="char:EOLhyphen"/>king of <hi>Newcaſtle</hi> by the Scotiſh Army, the courſe for the managing of the Coals ſetled by both Houſes of the Parliament of <hi>England</hi> in the Committee of <hi>Goldſmiths</hi>-Hall had not been in<g ref="char:EOLhyphen"/>terrupted; That Committee might have been better able to have given an Accompt of any decay of Trade therein, and how it hath hapned that many Moneths it hath fallen below the firſt eſtimate thereof.</p>
+            <p>
+               <pb n="9" facs="tcp:113548:5"/>
+Having made anſwer to the moſt materi<g ref="char:EOLhyphen"/>rall points in your Lorſhips papers concer<g ref="char:EOLhyphen"/>ning the pay of the Scotts army, as you have very frequently and very freely declared unto us the wants and neceſities thereof, through default of pay, ſo ſhall we alſo with the like freedome and brotherly affection, repreſent unto our Brethren of <hi>Scotland</hi> ſome particu<g ref="char:EOLhyphen"/>lars concerning the proceedings of that Ar<g ref="char:EOLhyphen"/>my.</p>
+            <p>It is well knowne unto your Lorſhips that we have upon divers occaſions, ſignified our advices and directions, how that Army might imploy it ſelf moſt effectually for the advance<g ref="char:EOLhyphen"/>ment of the publique ſervice of this King<g ref="char:EOLhyphen"/>dom, by engageing againſt the common E<g ref="char:EOLhyphen"/>nemies, and the places held and poſſeſſed by them, wherein (by what occaſion we know not) we have found our ſelves ſeverall times diſappointed of our hopes and expectations, by which meanes not only the common cauſe hath bin retarded, but alſo the end fruſtrated for which the aſſiſtance of ſo great and Army was deſired by us; which was, that a ſpeedy concluſion might be put to theſe unhappy
+<pb n="10" facs="tcp:113548:6"/>Warres we ſhall not need to goe further backe for an inſtance, then to that whereof the ſence is freſheſt in our minds, and which in that conjuncture of time and of our af<g ref="char:EOLhyphen"/>faires, proved very prejudiciall to the ſervice of this Kingdome, which was the continu<g ref="char:EOLhyphen"/>ing of that Army in the North where no Ene<g ref="char:EOLhyphen"/>my was, and not marching to beſeiged <hi>New<g ref="char:EOLhyphen"/>arke,</hi> at ſuch time as it was thereunto deſired by both Houſes of Parliament, a<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ough they not only expreſſed their deſires therein, but al<g ref="char:EOLhyphen"/>ſo their care in proviſion of money, &amp; ammu<g ref="char:EOLhyphen"/>nition to enable &amp; encourage them to under<g ref="char:EOLhyphen"/>take that worke; But having received no ſa<g ref="char:EOLhyphen"/>tisfaction at al in that particular, till that now by your Lordſhips Letter of the 12. of <hi>Nowem<g ref="char:EOLhyphen"/>ber</hi> the reſolution of the Generall the Earle of <hi>Leven,</hi> concerning the marching of that Army towards <hi>Newarke</hi> was ſignified unto us, By meanes of this delay, not only the Northerne parts have layne all this while under a moſt unſupportable burthen, but alſo the faireſt op<g ref="char:EOLhyphen"/>portunity that hath yet offered it ſelfe to us ſince the beginning of this Warre of putting an end to our miſeries, together with the ſea<g ref="char:EOLhyphen"/>ſon
+<pb n="11" facs="tcp:113548:6"/>the yeare for the ſpeedy reducing of that place which was the principall ground of our reſolution in that particular, is already ſlipt out of our hands, And the advance of the thirty thouſand pounds, which we had good hope, and ſome aſſurance of from the City for the uſe of that army, in caſe it came to <hi>New<g ref="char:EOLhyphen"/>arke</hi> before the firſt of <hi>November,</hi> and not o<g ref="char:EOLhyphen"/>therwiſe, is rendred more difficult and doubt<g ref="char:EOLhyphen"/>full unto us.</p>
+            <p>It was farre from our intentions that the Scottiſh Army ſhould neither be provided for by us, nor yet ſuffered to provide for their owne ſubſiſtance, nor doth the contrary ap<g ref="char:EOLhyphen"/>peare by any actions or omiſſions on our part, nor yet by any ſufferings of that army, but that according to our power, we have made proviſions for them, and that they al<g ref="char:EOLhyphen"/>ſo have ſupplyed themſelves.</p>
+            <p>We ſhall remember according to your Lordſhips expreſſions in your papers, That not written Ordinances but reall payments muſt ſatisfie the neceſſitie of the Souldiers, And we hope it ſhalbe aſwell remembred al<g ref="char:EOLhyphen"/>ſo, how far better then paper, our Ordinances
+<pb n="12" facs="tcp:113548:7"/>have proved to that Army, which hath not bin more ready to engage it ſelfe really in the ſeruice of this Kingdome, then we have bin forward to pay it really, for to ſatisfie the ne<g ref="char:EOLhyphen"/>ceſſities of the ſouldiers, And therefore deſire ſuch expreſſions may be forborne, which may ſeeme to derogate from the honour ei<g ref="char:EOLhyphen"/>ther of the proceedings or Ordinances of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>When the Treaty was concluded between the two Kingdomes, it was ſuppoſed that ſuch might be the wants &amp; neceſſities of this Kingdom, as that they might not be able to make due and conſtant payment to the Scots Army, yet was it no ſuppoſed that in default thereof they might forbeare to engate their Army, much leſſe lay Taxes upon the people of <hi>England</hi> to lay themſelves, this Kingdome being to give their publique faith for the pay<g ref="char:EOLhyphen"/>ment of their Arreares with Intereſt, as on the other ſide the Kingdome of <hi>Scotland</hi> gave their publique faith that neither their entrance in<g ref="char:EOLhyphen"/>to, nor continuance in the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhould be made uſe of to any other ends then ſuch as are conteyned in the Covenant and Articles of the Treaty.</p>
+            <p>
+               <pb n="13" facs="tcp:113548:7"/>
+That it is contrary to the Liberties of the ſubiects of <hi>England</hi> That any Taxes or Levies of Monies ſhould bee layd or raiſed upon them without the conſent of both Houſes of Parliament<g ref="char:punc">▪</g> we need not declare to your Lordſhips.</p>
+            <p>And wee are ſorry that the cryes which continually ſound in our eares from the peo<g ref="char:EOLhyphen"/>ple, eſpecially of the Northerne parts, brought to us by the hands of ſuch us we have inmo<g ref="char:EOLhyphen"/>ſted there, ſhould enforce us to repreſent unto our Brethren of <hi>Scotland,</hi> the great Com<g ref="char:EOLhyphen"/>plaints, which long ſince, and at this preſent, are made of the laying of Taxes of Money, and other things by ſome of the Scots Army, and that alſo in very vaſt and exceſſive pro<g ref="char:EOLhyphen"/>portions, beſides free Quarterings, and diſ<g ref="char:EOLhyphen"/>orderly plunderings of Horſes and other goods, which courſes being taken and conti<g ref="char:EOLhyphen"/>nued; It cannot be expected that wee ſhould continue the monethly pay of that Army, which though wee have not taken occaſion to ſtop and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urceaſe, upon the Taxes and lea<g ref="char:EOLhyphen"/>vies of Moneys and other proceedings of that Army, Yet wee expect (as that which of right is due, that our of it, deduction and
+<pb n="14" facs="tcp:113548:8"/>ſatisfaction ſhould be given in the Premiſſes. And as we are obliged to make good the monethly pay of that Army according to the Treaty, ſo long as we ſhall find it neceſſary to uſe the aſſiſtance thereof within this King<g ref="char:EOLhyphen"/>dome and no longer, ſo is that Army like<g ref="char:EOLhyphen"/>wiſe bound to demeane themſelves confor<g ref="char:EOLhyphen"/>mable to the tenour of the Treaty, and accor<g ref="char:EOLhyphen"/>ding thereunto to give ſatisfaction to this Kingdome; That ſuch forces of the Scottiſh Nation, as have beene put into the ſeverall Garriſons of <hi>Newcaſtle</hi> upon Tyne, the City of <hi>Carlile,</hi> and other places in the North, without the conſent of both Houſes of the Parliament of <hi>England</hi> ſhall be removed, to the intent that the ſame may bee diſpoſed off in ſuch manner as ſhall be thought fitting by the ſaid Houſes of Parliament, The performance whereof we have demanded from the Kingdome of <hi>Scotland,</hi> by our Letter to that Parliament.</p>
+            <p>Theſe things we held our ſelves bound to repreſent to our Brethren of <hi>Scotland,</hi> aſwell in diſcharge of the truſt repoſed in us for the preſervation of the Intereſt and liberties of this Kingdome, as alſo the better to maintaine the union, and good Correſpondency betweene
+<pb n="15" facs="tcp:113548:8"/>the two Kingdomes, which being the ſureſt foundation of ſecurity, and proſperity to both Nations. It alwayes hath, and alwayes ſhall be the firme reſolution of both Houſes of the Parliament of <hi>England,</hi> to preſerve and maintaine the ſame according to the Cove<g ref="char:EOLhyphen"/>nant and Treaty, the common rules and markes which both Kingdomes have ſet up unto themſelves to ſteere their courſe by, in the purſuance of their joynt intereſts, and for the attaining of the good ends therein expreſ<g ref="char:EOLhyphen"/>ſed and contained, from which we deſire that there may bee no ſwerving on either ſide, hoping and expecting the like redreſſe and ſa<g ref="char:EOLhyphen"/>tisfaction from our Brethren of <hi>Scotland,</hi> up<g ref="char:EOLhyphen"/>on any infringement thereof, as we ſhall bee ready to give unto them if any ſuch thing ſhould happen on our part.</p>
+            <p>Concerning Religion, and the ſettling of Church-Government, as there is nothing wherein wee have more deſired to approve our conſciences to God, and our actions to the world, ſo doe our hearts give us a very cleere Teſtimony of the faithfull and diligent diſcharge of our duty therein, according to the truſt repoſed in us, and the Covenant ta<g ref="char:EOLhyphen"/>ken
+<pb n="16" facs="tcp:113548:9"/>by us. And were conceive our actions witneſſe no leſſe to all that will rightly weigh and conſider, what wee have already done therein, and with what diligence and zeale wee have from time to time proceeded in that worke of God, being reſolved to conti<g ref="char:EOLhyphen"/>nue ſo doing, till we have fully ſupplyed what ſhall yet appeare wanting therein, it be<g ref="char:EOLhyphen"/>ing alwayes to bee remembred, that the pre<g ref="char:EOLhyphen"/>ſerving of the Liberty, and freedome of our debates, and Reſolutions in Parliament, is not to be interpreted or termed negligence or de<g ref="char:EOLhyphen"/>lay in us.</p>
+            <p>As to the Propoſitions of Peace to be ſent to his Majeſty in purſuance of our Reſolutions of the ſixth of <hi>Auguſt</hi> communicated to your Lordſhips, we have proceeded therein as the exigents of our affaires would permit, and the Propoſitions being at this preſent continually in agitation and debate in Par<g ref="char:EOLhyphen"/>liament; Wee are reſolved to apply our ſelves both ſpeedily and effectually to the perfecting of them ac<g ref="char:EOLhyphen"/>cording to the Preſent ſtate of affaires, and we doubt not but that our actions ſhall teſtifie to our Brethren of <hi>Scotland,</hi> and all the world, that there is no earth<g ref="char:EOLhyphen"/>ly thing more in our thoughts and deſires, then the ſettling of a ſafe and a well-grounded Peace in the three Kingdomes, for which we have done and ſuffe<g ref="char:EOLhyphen"/>red aſmuch as any Kingdome in the world.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113548:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
